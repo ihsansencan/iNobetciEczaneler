@@ -1,5 +1,4 @@
 # # iNobetciEczaneler
-* * *
 
 Tüm iller için nöbetçi eczaneler.........
 
